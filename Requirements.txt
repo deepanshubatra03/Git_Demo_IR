@@ -1,4 +1,4 @@
-All Libraries of Python - Developer 2
+All Python Libraries
 Numpy
 Pandas
 Seaborn
